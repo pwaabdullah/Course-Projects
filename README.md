@@ -10,7 +10,7 @@ List of projects those I have developed during my MS and PhD
 * Laguage/Tools: Java
 
 ## Bigdata Analysis 
-* Semi-Supervised Real-time tweet Spam Filtering UsingSpark-Streaming 
+* Semi-Supervised Real-time tweet Spam Filtering Using Spark-Streaming 
 * Laguage/Tools: Scala, Hadoop, Spark, Spark-Stream, Java
 
 ## Operating System
