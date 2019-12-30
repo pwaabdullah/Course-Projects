@@ -1,2 +1,4 @@
-# Course-Projects
- MS and PhD Course works
+# Real-time tweet Spam Filtering
+An upsurge in spam volume and sophistication is the result of the quick advancement of Twitter. Spam tweet is an important and difficult problem for a long time. The misuse of undeniable Twitter services such as shortened URLs, shortened URLs, "hashtags”, and "mentions”, permits spammers to activate proficiently. Similar activities, however, may be a fundamental element in finding new spam accounts as demonstrated by earlier researchers. To defend Twitter users from spamming behaviors, many IT specialist, and researchers have proposed many revealing and filtering mechanism so far. Therefore, we are motivated to propose a new model for filtering out the non-relevant/span tweets that have a certain hashtag in real-time using sparkStreaming.
+
+* Language: Scala, Python
