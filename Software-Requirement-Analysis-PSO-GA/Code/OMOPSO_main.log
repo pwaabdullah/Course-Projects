@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-10T13:40:34</date>
+  <millis>1399718434641</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.omopso.OMOPSO_main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Total execution time: 26018ms</message>
+</record>
+<record>
+  <date>2014-05-10T13:40:34</date>
+  <millis>1399718434671</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.omopso.OMOPSO_main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Variables values have been writen to file VAR</message>
+</record>
+<record>
+  <date>2014-05-10T13:40:34</date>
+  <millis>1399718434768</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.omopso.OMOPSO_main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Objectives values have been writen to file FUN</message>
+</record>
+</log>

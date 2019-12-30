@@ -1,0 +1,274 @@
+autostart = False
+version = 0.8.7
+[127.0.0.1:7202]
+    workingdir = C:\Users\Cobra\AppData\Local\Temp
+    udp = 10201
+    [[3745]]
+        image = E:\tutorial\GNS3\c3745-advipservicesk9-mz.124-25d.image
+        idlepc = 0x611eb81c
+        sparsemem = True
+        ghostios = True
+    [[ROUTER CUST_B-R1]]
+        model = 3745
+        console = 2107
+        aux = 2507
+        cnfg = configs\CUST_B-R1.cfg
+        f0/0 = R2 f1/0
+        x = -335.0
+        y = 99.0
+        z = 1.0
+    [[ROUTER CUST_B-R2]]
+        model = 3745
+        console = 2112
+        aux = 2512
+        cnfg = configs\CUST_B-R2.cfg
+        f0/0 = R2 f2/0
+        x = -238.0
+        y = 188.0
+        z = 1.0
+        hx = -38.0
+        hy = -28.0
+[127.0.0.1:7200]
+    workingdir = C:\Users\Cobra\AppData\Local\Temp
+    udp = 10001
+    [[3745]]
+        image = E:\tutorial\GNS3\c3745-advipservicesk9-mz.124-25d.image
+        idlepc = 0x611eb81c
+        sparsemem = True
+        ghostios = True
+    [[ROUTER R2]]
+        model = 3745
+        console = 2102
+        aux = 2502
+        cnfg = configs\R2.cfg
+        f0/0 = R1 f0/0
+        f0/1 = R3 f0/1
+        slot1 = NM-1FE-TX
+        f1/0 = CUST_B-R1 f0/0
+        slot2 = NM-1FE-TX
+        f2/0 = CUST_B-R2 f0/0
+        x = -111.0
+        y = 35.0
+        z = 1.0
+        hx = 9.5
+        hy = -20.0
+    [[ROUTER R3]]
+        model = 3745
+        console = 2103
+        aux = 2503
+        cnfg = configs\R3.cfg
+        f0/0 = R4 f0/0
+        f0/1 = R2 f0/1
+        slot1 = NM-1FE-TX
+        slot2 = NM-1FE-TX
+        x = 45.0
+        y = 34.0
+        z = 1.0
+        hx = 8.5
+        hy = -21.0
+    [[ROUTER R1]]
+        model = 3745
+        console = 2101
+        aux = 2501
+        cnfg = configs\R1.cfg
+        f0/0 = R2 f0/0
+        f0/1 = CUST_A-R1 f0/1
+        slot1 = NM-1FE-TX
+        slot2 = NM-1FE-TX
+        x = -110.0
+        y = -79.0
+        z = 1.0
+[127.0.0.1:7201]
+    workingdir = C:\Users\Cobra\AppData\Local\Temp
+    udp = 10101
+    [[3745]]
+        image = E:\tutorial\GNS3\c3745-advipservicesk9-mz.124-25d.image
+        idlepc = 0x611eb81c
+        sparsemem = True
+        ghostios = True
+    [[ROUTER R4]]
+        model = 3745
+        console = 2104
+        aux = 2504
+        cnfg = configs\R4.cfg
+        f0/0 = R3 f0/0
+        f0/1 = CUST_A-R2 f0/1
+        slot1 = NM-1FE-TX
+        slot2 = NM-1FE-TX
+        x = 46.0
+        y = -80.0
+        z = 1.0
+    [[ROUTER CUST_A-R1]]
+        model = 3745
+        console = 2105
+        aux = 2505
+        cnfg = configs\CUST_A-R1.cfg
+        f0/1 = R1 f0/1
+        slot1 = NM-1FE-TX
+        slot2 = NM-1FE-TX
+        x = -352.0
+        y = -126.0
+        z = 1.0
+    [[ROUTER CUST_A-R2]]
+        model = 3745
+        console = 2106
+        aux = 2506
+        cnfg = configs\CUST_A-R2.cfg
+        f0/1 = R4 f0/1
+        slot1 = NM-1FE-TX
+        slot2 = NM-1FE-TX
+        x = 279.0
+        y = -114.0
+        z = 1.0
+[GNS3-DATA]
+    configs = configs
+    workdir = working
+    [[NOTE 1]]
+        text = "23.23.23.0/24"
+        x = -33.0
+        y = 33.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 2]]
+        text = "Loopback0\n3.3.3.3/32"
+        x = 105.0
+        y = 17.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 3]]
+        text = "OSPF Area 0"
+        x = -52.0
+        y = 83.0
+        font = "MS Shell Dlg 2,10,-1,5,75,0,0,0,0,0"
+        color = "#ff5500"
+    [[NOTE 4]]
+        text = "29.29.29.0/24"
+        x = -135.0
+        y = 125.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 5]]
+        text = "34.34.34.0/24"
+        x = 89.0
+        y = -9.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 6]]
+        text = "15.15.15.0/24"
+        x = -225.0
+        y = -73.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 7]]
+        text = "Loopback0\n4.4.4.4/32"
+        x = 14.0
+        y = -104.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 8]]
+        text = "BGP AS 65001"
+        x = -51.0
+        y = -165.0
+    [[NOTE 9]]
+        text = "46.46.46.0/24"
+        x = 161.0
+        y = -70.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 10]]
+        text = "28.28.28.0/24"
+        x = -218.0
+        y = 58.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 11]]
+        text = "Lo10: 6.6.6.6/32\nLo100: 66.66.66.66/32"
+        x = 234.0
+        y = -205.0
+    [[NOTE 12]]
+        text = "AS 65002"
+        x = 278.0
+        y = -59.0
+    [[NOTE 13]]
+        text = "Lo10: 5.5.5.5/32\nLo100: 55.55.55.55/32"
+        x = -395.0
+        y = -205.0
+    [[NOTE 14]]
+        text = "AS 65003"
+        x = -365.0
+        y = 153.0
+    [[NOTE 15]]
+        text = "VRF CUST-A"
+        x = 135.0
+        y = -105.0
+        color = "#5500ff"
+    [[NOTE 16]]
+        text = "VRF CUST-B"
+        x = -202.0
+        y = 89.0
+        color = "#ff0000"
+    [[NOTE 17]]
+        text = "Service Provider Network"
+        x = -110.0
+        y = -185.0
+        font = "MS Shell Dlg 2,12,-1,5,75,0,0,0,0,0"
+    [[NOTE 18]]
+        text = "12.12.12.0/24"
+        x = -150.0
+        y = -12.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 19]]
+        text = "VRF CUST-A"
+        x = -214.0
+        y = -105.0
+        color = "#5500ff"
+    [[NOTE 20]]
+        text = "Loopback0\n1.1.1.1/32"
+        x = -68.0
+        y = -103.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 21]]
+        text = "Loopback0\n2.2.2.2/32"
+        x = -157.0
+        y = 13.0
+        font = "MS Shell Dlg 2,6,-1,5,75,0,0,0,0,0"
+    [[NOTE 22]]
+        text = "AS 65002"
+        x = -347.0
+        y = -70.0
+    [[SHAPE 1]]
+        type = ellipse
+        x = -173.0
+        y = -134.0
+        width = 341.0
+        height = 254.0
+        fill_color = "#ffff7f"
+        z = -1.0
+    [[SHAPE 2]]
+        type = ellipse
+        x = -246.0
+        y = -207.0
+        width = 487.0
+        height = 398.0
+        fill_color = "#aaff7f"
+        border_style = 2
+        z = -2.0
+    [[SHAPE 3]]
+        type = ellipse
+        x = -387.0
+        y = 44.0
+        width = 288.0
+        height = 209.0
+        fill_color = "#ffaa7f"
+        border_style = 2
+        z = -2.0
+    [[SHAPE 4]]
+        type = ellipse
+        x = -410.0
+        y = -164.0
+        width = 200.0
+        height = 138.0
+        fill_color = "#55ffff"
+        border_style = 2
+        z = -2.0
+    [[SHAPE 5]]
+        type = ellipse
+        x = 206.0
+        y = -160.0
+        width = 200.0
+        height = 138.0
+        fill_color = "#55ffff"
+        border_style = 2
+        z = -4.0

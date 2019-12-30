@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SoftwareReq</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>JMETALHOME</name>
+			<type>2</type>
+			<locationURI>DROPBOXMAC/courses/Software%20Requirements%20Engineering/project/JMETALHOME</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>DROPBOXMAC</name>
+			<value>file:/Users/pc/fahim/Dropbox</value>
+		</variable>
+		<variable>
+			<name>DROPBOXWIN</name>
+			<value>file:/E:/Documents/Dropbox</value>
+		</variable>
+	</variableList>
+</projectDescription>

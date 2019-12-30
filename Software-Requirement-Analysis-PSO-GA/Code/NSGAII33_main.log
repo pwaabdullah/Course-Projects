@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786436</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-624.0 , -2.4998451821841448</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786448</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-738.0 , -2.479922801382779</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786449</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-600.0 , -2.625978445550814</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786451</millis>
+  <sequence>3</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-749.0 , -2.59548855749163</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786452</millis>
+  <sequence>4</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-810.0 , -2.5078526574564193</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786461</millis>
+  <sequence>5</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-962.0 , -2.508995075356145</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786462</millis>
+  <sequence>6</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-915.0 , -2.5302972708036</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786466</millis>
+  <sequence>7</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-779.0 , -2.5519594174914815</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786466</millis>
+  <sequence>8</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-945.0 , -2.5465333142406354</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786467</millis>
+  <sequence>9</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-736.0 , -2.600270238024624</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786468</millis>
+  <sequence>10</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-607.0 , -2.622110761957378</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786469</millis>
+  <sequence>11</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-761.0 , -2.5849490261786827</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786471</millis>
+  <sequence>12</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-765.0 , -2.6359867027903983</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786472</millis>
+  <sequence>13</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-467.0 , -2.681197575006402</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786473</millis>
+  <sequence>14</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-892.0 , -2.594849502415579</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786474</millis>
+  <sequence>15</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-568.0 , -2.6400567463526623</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786475</millis>
+  <sequence>16</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-647.0 , -2.649017201491774</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786485</millis>
+  <sequence>17</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-997.0 , -2.5266048175619895</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786485</millis>
+  <sequence>18</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-912.0 , -2.5901470797516186</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786486</millis>
+  <sequence>19</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-1024.0 , -2.5241336055455847</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786486</millis>
+  <sequence>20</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-950.0 , -2.5864580612084365</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786489</millis>
+  <sequence>21</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-981.0 , -2.53238748553907</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786489</millis>
+  <sequence>22</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-815.0 , -2.605498379575713</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786490</millis>
+  <sequence>23</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-582.0 , -2.685277686780063</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786490</millis>
+  <sequence>24</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-967.0 , -2.545231069540884</message>
+</record>
+<record>
+  <date>2014-05-15T08:29:46</date>
+  <millis>1400131786491</millis>
+  <sequence>25</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>BPSO</class>
+  <method>execute</method>
+  <thread>10</thread>
+  <message>Found a new solution-1031.0 , -2.5746895694044754</message>
+</record>
+<record>
+  <date>2014-05-15T10:06:24</date>
+  <millis>1400137584486</millis>
+  <sequence>26</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Total execution time: 5818076ms</message>
+</record>
+<record>
+  <date>2014-05-15T10:06:24</date>
+  <millis>1400137584486</millis>
+  <sequence>27</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Variables values have been writen to file VAR</message>
+</record>
+<record>
+  <date>2014-05-15T10:06:24</date>
+  <millis>1400137584513</millis>
+  <sequence>28</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Objectives values have been writen to file FUN</message>
+</record>
+</log>
