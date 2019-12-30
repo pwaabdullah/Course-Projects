@@ -51,3 +51,5 @@ To import export from our file system to unix:
 Before executing make file add the following to .bashrc:
 
     export LD_LIBRARY_PATH="path/to/this/project"
+
+* Reference: https://github.com/jorvel/COP4610-HW5 
