@@ -1,10 +1,22 @@
-# COP5614-FinalProject
+# OS Project: Slower File System Imlementation
 
-Group:
-* Md Shahadat Iqbal
+The project focus on developing a file management system. The main objectives of this project
+are:
+* Gain a details understanding on how does file system work, specifically the directory
+hierarchy and storage management.
+* Gain an understanding on some of the performance issues file systems must deal with.
+In this project, we have built the user-level library, libFS, that can simulate some of the functions
+of a 
+* File management system.
+
+Video: https://youtu.be/fL1RNKb2dQA 
+
+Implemented By:
 * Md Abdullah Al Mamun
+* Md Shahadat Iqbal
 * Vitalii Stebliankin
 
+# How to run and test
 To compile the code, run the following in the project directory:
 
 	make
