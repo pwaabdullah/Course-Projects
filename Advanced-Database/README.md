@@ -1,2 +1,4 @@
-# Course-Projects
- MS and PhD Course works
+# Discovering Functional Dependencies in Hidden Data using Approximate Formal Concept
+Many users issue queries to a hidden database by using the search template provided by the system. In this article, a new approach based mainly on hidden database reduction preserving functional dependencies is developed. The developed approach is applied to online market systems like OLX. Offline hidden data analysis is used to discover attributes and their domains and different functional dependencies. In this research, a comparative study between several methods for mining functional dependencies shows the advantage of conceptual methods for data reduction. In addition, approximate formal concept analysis is used to discover the functional dependencies on hidden and known datasets. The validation of the proposed designed and developed methods prove their generality and suitability for system interfacing through continuous data reductions.
+
+* Language: Java
