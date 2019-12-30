@@ -1,2 +1,4 @@
-# Course-Projects
- MS and PhD Course works
+# Femtocell Cluster-based Resource Allocation Scheme for OFDMA Networks
+This is our term project for the course COE-540 namely computer networks. We chose “Femtocell Cluster-based Resource Allocation Scheme for OFDMA Networks” Hatoum et al. to reproduce result and learn how to use experimental tools and write-up a research paper. We learn a lot about how to solve optimization problem, problem formulation, result and analysis etc from this experiment. However, recently -operators have resorted to femtocell networks in order to enhance indoor coverage and quality of service since macro-antennas fail to reach these objectives. Nevertheless, they are confronted to many challenges to make a success of femtocells deployment. In this paper, we address the issue of resources allocation in femtocell networks using OFDMA technology. Specifically, author proposes resource allocation strategy namely Femtocell Cluster-based Resource Allocation (FCRA). In this paper we do two experiment such as cluster formation and resource allocation for each cluster and finally we do analysis our result sets.
+
+* Language: matlab, C
