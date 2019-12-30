@@ -1,5 +1,5 @@
 # Course Projects Showcase
-List of course and course projects I have developed during my MS and PhD
+List of projects those I have developed during my MS and PhD
 
 ## Advanced Algorithm Analysis 
 * Unknown Knowledge Mining: An Incremental Fuzzy Approach 
