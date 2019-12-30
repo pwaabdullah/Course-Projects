@@ -1,2 +1,7 @@
-# Course-Projects
- MS and PhD Course works
+# Performance Evaluation of Routing Protocols for Video Conference over MPLS VPN Network
+Nowadays video conferencing is a highly demanding facility in order to its real time characteristics, but faster communication is the prior requirement of this technology. Multi Protocol Label Switching (MPLS) IP Virtual Private Network (VPN) addresses this problem and it is able to make a communication faster than others techniques. However, this paper studies the performance comparison of video traffic between two routing protocols namely the Enhanced Interior Gateway Protocol (EIGRP) and Open Shortest Path First (OSPF). The combination of traditional routing and MPLS improve the forwarding mechanism, scalability and overall network performance. We will use GNS3 and OPNET Modeler 14.5 to simulate many different scenarios and metrics such as delay, jitter and mean opinion score (MOS) value are measured. The simulation result will show that OSPF and BGP-MPLS VPN offers best performance for video conferencing application.
+
+* Language: C++, NS2
+* Published Article:http://iasks.org/volume-7-issue-1-2016/  https://www.researchgate.net/profile/Md_Abdullah_Al_Mamun15/publication/299285139_Performance_Evaluation_of_Routing_Protocols_for_Video_Conference_over_MPLS_VPN_Network/links/56f0532f08ae70bdd6c948e9/Performance-Evaluation-of-Routing-Protocols-for-Video-Conference-over-MPLS-VPN-Network.pdf
+
+Al Mamun, Abdullah, et al. "Performance evaluation of routing protocols for video conference over mpls vpn network." Journal of Ubiquitous Systems & Pervasive Networks 7.1 (2016): 01-06.
