@@ -1,5 +1,6 @@
 # Course Projects Showcase
-* Advanced Algorithm Analysis: Unknown Knowledge Mining: An Incremental Fuzzy Approach 
+##Advanced Algorithm Analysis 
+Unknown Knowledge Mining: An Incremental Fuzzy Approach 
 * Advanced Database Design: Discovering Functional Dependencies in Hidden Data using Approximate Formal Concept 
 * Bigdata Analysis: Semi-Supervised Real-time tweet Spam Filtering UsingSpark-Streaming 
 * Operating System: Slower File System Imlementation, and Multithreaded Programming and Synchronization
