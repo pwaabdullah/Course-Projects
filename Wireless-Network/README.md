@@ -1,2 +1,4 @@
-# Course-Projects
- MS and PhD Course works
+# Simulation Model of Multi-RAT in Wireless Network
+As the network is becoming more dense and complex, also there are lacking of coordination between all network technologies where all the resources in the wireless network cannot be used in additional to unsatisfied user experience. Thus, 5G technology is expected to support new challenging use-cases by operating the network in a wide frequency ranges. Multi- RATs (Radio Access Technologies): LTE and Wi-Fi will together establish 5G in order to meet its own technology vision which is 1 Gbps cell edge data rate with less than 1 ms latency. In this paper, implementing LTE and Wi-Fi using MATLAB and conducting simulations experiments to measure the throughput to select the right radio access technology based on BER are the key goals. The empirical results meet this claims.
+
+* Language: C, matlab, NS2
